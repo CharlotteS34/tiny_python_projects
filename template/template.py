@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author : Me <me@foo.com>
+Author : Charlotte Skidmore
 Date   : today
 Purpose: Rock the Casbah
 """
